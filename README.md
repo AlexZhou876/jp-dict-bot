@@ -13,3 +13,5 @@ password = "..."
 client_id = "..."
 
 client_secret = "..."
+
+all of which are obtained from reddit.com/prefs/apps
